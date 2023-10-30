@@ -1,0 +1,60 @@
+/* Reset default margin and padding */
+body, h1, h2, h3, p {
+    margin: 10;
+    padding: 10;
+}
+
+/* Basic styling */
+body {
+    font-family: Arial, sans-serif;
+    background-color: #c8e6f1;
+    margin: 10;
+    padding: 10;
+}
+
+header {
+    background-color: #2f6699;
+    color: #fff;
+    text-align: center;
+    padding: 20px;
+    position: relative;
+}  
+
+nav ul {
+    list-style: none;
+    text-align: center;
+    background-color: #3fb0c4;
+    padding: 10px;
+}
+
+nav li {
+    display: inline;
+    margin: 10px;
+}
+
+section {
+    background-color: #ffffff;
+    padding: 20px;
+    margin: 20px;
+}
+
+.project {
+    margin-bottom: 20px;
+}
+
+/* Style for the top-left corner image */
+.left-corner-image {
+    position: absolute;
+    top: 0;
+    left: 1; 
+}
+.custom-size {
+    width: 100px;
+    height: 100px;
+    text-align: left;
+}
+
+
+/* Add more CSS rules to style your portfolio as desired */
+
+
